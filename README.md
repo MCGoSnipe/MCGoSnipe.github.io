@@ -1,0 +1,2 @@
+# MCGoSnipe.github.io
+site
